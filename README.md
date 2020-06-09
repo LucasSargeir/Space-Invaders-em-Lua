@@ -35,10 +35,10 @@ Feitas as alterações, compacte os arquivos em um zip e renomeie eles para love
 
 Nome do zip:
 
-​	arquivo.zio
+​		_arquivo.zio_
 
 Nove do executável:
 
-​	arquivo.love
+​		_arquivo.love_
 
 E prontinho, agora você pode jogar com as alterações realizadas.
